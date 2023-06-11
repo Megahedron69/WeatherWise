@@ -2,12 +2,12 @@
 
 WeatherWise is a beautiful and optimized React Native weather app that provides real-time weather updates. With its intuitive user interface and caching API powered by React Query, WeatherWise offers a seamless experience for users to stay updated with weather information.
 
-![WeatherWise Demo](https://i.imgur.com/k9rKkWOl.gif)
+![WeatherWise Demo][Imgur](https://i.imgur.com/iAPYZyFl.gif)
 
 ## Screenshots
 
-![WeatherWise Screenshot](https://i.imgur.com/2aFAXQVundefined.jpg)
-![WeatherWise Screenshot](https://i.imgur.com/d5DJFohundefined.jpg)
+![WeatherWise Screenshot][https://i.imgur.com/2aFAXQVundefined.jpg](https://i.imgur.com/2aFAXQVm.jpg)
+![WeatherWise Screenshot][https://i.imgur.com/d5DJFohundefined.jpg](https://i.imgur.com/d5DJFohm.jpg)
 
 ## Features
 
